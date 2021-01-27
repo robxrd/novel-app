@@ -1,12 +1,16 @@
+import * as React from 'react'
 import story from "../story.json"
 
-function Quote() {
-    
-    return(
-        <div className="quote">
-            {story[1]}
+const {useState} = React
+
+export default function Quote() {
+    const [i, nextQuote] = useState(1)
+
+    return (
+        <div className="quote" onClick={() => {
+            nextQuote(i + 1)
+        }}>
+            <h3>{story[i]}</h3>
         </div>
     )
 }
-
-export default Quote
