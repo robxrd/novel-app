@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/novel-app/static/css/main.de0ae405.chunk.css",
-    "main.js": "/novel-app/static/js/main.db238125.chunk.js",
-    "main.js.map": "/novel-app/static/js/main.db238125.chunk.js.map",
+    "main.css": "/novel-app/static/css/main.0eddfd3c.chunk.css",
+    "main.js": "/novel-app/static/js/main.0513e9bb.chunk.js",
+    "main.js.map": "/novel-app/static/js/main.0513e9bb.chunk.js.map",
     "runtime-main.js": "/novel-app/static/js/runtime-main.0b86cf9f.js",
     "runtime-main.js.map": "/novel-app/static/js/runtime-main.0b86cf9f.js.map",
     "static/js/2.e1c3ca6b.chunk.js": "/novel-app/static/js/2.e1c3ca6b.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.bd4ffe80.chunk.js": "/novel-app/static/js/3.bd4ffe80.chunk.js",
     "static/js/3.bd4ffe80.chunk.js.map": "/novel-app/static/js/3.bd4ffe80.chunk.js.map",
     "index.html": "/novel-app/index.html",
-    "static/css/main.de0ae405.chunk.css.map": "/novel-app/static/css/main.de0ae405.chunk.css.map",
+    "static/css/main.0eddfd3c.chunk.css.map": "/novel-app/static/css/main.0eddfd3c.chunk.css.map",
     "static/js/2.e1c3ca6b.chunk.js.LICENSE.txt": "/novel-app/static/js/2.e1c3ca6b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0b86cf9f.js",
     "static/js/2.e1c3ca6b.chunk.js",
-    "static/css/main.de0ae405.chunk.css",
-    "static/js/main.db238125.chunk.js"
+    "static/css/main.0eddfd3c.chunk.css",
+    "static/js/main.0513e9bb.chunk.js"
   ]
 }
