@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/novel-app/static/css/main.7842415a.chunk.css",
+    "main.css": "/novel-app/static/css/main.ed284a85.chunk.css",
     "main.js": "/novel-app/static/js/main.5d913c16.chunk.js",
     "main.js.map": "/novel-app/static/js/main.5d913c16.chunk.js.map",
     "runtime-main.js": "/novel-app/static/js/runtime-main.0b86cf9f.js",
@@ -10,14 +10,14 @@
     "static/js/3.bd4ffe80.chunk.js": "/novel-app/static/js/3.bd4ffe80.chunk.js",
     "static/js/3.bd4ffe80.chunk.js.map": "/novel-app/static/js/3.bd4ffe80.chunk.js.map",
     "index.html": "/novel-app/index.html",
-    "static/css/main.7842415a.chunk.css.map": "/novel-app/static/css/main.7842415a.chunk.css.map",
+    "static/css/main.ed284a85.chunk.css.map": "/novel-app/static/css/main.ed284a85.chunk.css.map",
     "static/js/2.bcc12f8e.chunk.js.LICENSE.txt": "/novel-app/static/js/2.bcc12f8e.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/novel-app/static/media/skeleton.fc2a3d43.gif"
+    "static/media/App.css": "/novel-app/static/media/saturn.6bf3398b.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.0b86cf9f.js",
     "static/js/2.bcc12f8e.chunk.js",
-    "static/css/main.7842415a.chunk.css",
+    "static/css/main.ed284a85.chunk.css",
     "static/js/main.5d913c16.chunk.js"
   ]
 }
