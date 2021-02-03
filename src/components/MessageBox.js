@@ -1,12 +1,18 @@
-import Quote from "./Quote";
+import * as React from 'react'
+import story from "../story.json"
 
-function MessageBox() {
+const {useState} = React
+
+export default function MessageBox() {
+    const [i, nextQuote] = useState(1)
 
     return (
-        <div className="message-container">
-            <Quote />
+        <div className="master-container">
+            <div className="previous-button" onClick={() => nextQuote(i - 1)}></div>
+            <div className="next-button" onClick={() => nextQuote(i + 1)}></div>
+            <div className="quote-div">
+                <h3 className="quote">{story[i]}</h3>
+            </div>
         </div>
     )
 }
-
-export default MessageBox
